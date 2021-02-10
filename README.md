@@ -2,7 +2,7 @@
 # Author : Zuberi Ayyub Msemo
 
 
-# MAIN FOCUS: week_5_gridviews
+# MAIN FOCUS: Grid Views and List Views
 
 A week 5 reflection and assignment practice on Grid Views and List Views.
 Used a Grid View for this demostration.
